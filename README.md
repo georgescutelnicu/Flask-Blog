@@ -1,3 +1,5 @@
+## Flask Blog
+
 This project is a dynamic blog website built using Flask. It features a range of functionalities that allow users to create, edit, and delete posts, leave comments on posts, and manage their accounts.
 <br><br>
 The application uses Flask extensions to enhance its capabilities:
@@ -10,9 +12,10 @@ The application uses Flask extensions to enhance its capabilities:
 <br>
 User authentication is implemented using password hashing for security, and routes are protected with login-required decorators to ensure authorized access. The application's features empower users to interact with the blog content seamlessly.
 <br><br>
-To run the project locally, clone the repository, set up the required dependencies using ``` pip ```, and configure your database. Then, run the Flask development server to see the blog in action.
+
+To run the project locally, clone the repository, set up the required dependencies using ```pip``` , and configure your database. Then, run the Flask development server to see the blog in action.
 <br><br>
-<u>Preview:</u>
+<ins>Preview:</ins>
 <br>
 <br>
 <br>
